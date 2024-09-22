@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "math/ÅK 7-9 Matematik Script (SV).md",
+                "file": "Matematik/ÅK 7-9 Matematik Script (SV).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "math/ÅK 7-9 Matematik Script (SV).md",
+                "file": "Matematik/ÅK 7-9 Matematik Script (SV).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "math/ÅK 7-9 Matematik Script (SV).md",
+                "file": "Matematik/ÅK 7-9 Matematik Script (SV).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "math/ÅK 7-9 Matematik Script (SV).md"
+                "file": "Matematik/ÅK 7-9 Matematik Script (SV).md"
               }
             }
           },
@@ -164,12 +164,12 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "f7e4488f33b8d826",
+  "active": "1e8d4d61d6a8e25f",
   "lastOpenFiles": [
     "math/rsa.pub.pub",
     "math/rsa.pub",
-    "math/ÅK 7-9 Matematik.md",
-    "math/ÅK 7-9 Matematik Script (SV).md",
+    "Matematik/ÅK 7-9 Matematik.md",
+    "Matematik/ÅK 7-9 Matematik Script (SV).md",
     "Matematik/ÅK 7-9 Matematik Script (SV).md",
     "math",
     "Matematik/Matematik 1-NATEK-2 Challenge.md",
