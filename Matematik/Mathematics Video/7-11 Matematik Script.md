@@ -4,6 +4,8 @@ Welcome to the grade 7 all the way to upper secondary math video! If you hover a
 
 @Scene 2
 
+Some content in this video is meant to be a joke.
+Do not take all of this video seriously.
 
 
 **Why Math is important**
