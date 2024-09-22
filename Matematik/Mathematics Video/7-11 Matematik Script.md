@@ -2,6 +2,10 @@
 
 Welcome to the grade 7 all the way to upper secondary math video! If you hover above the video's timeline, you should see chapters indicating a math level or what's taught. If you want to see every chapter name, scroll down into the video description and you'll see some time links with chapter titles next to them. That's it, I hope you learn a lot!
 
+@Scene 2
+
+
+
 **Why Math is important**
 
 Många vuxna, t.o.m lärare, kommer att säga: "Det är viktigt för att Mathematik låter mänskighetens kunskap att fortsätta förbättras." Jag själv håller med, men gillar inte svaret.
