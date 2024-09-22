@@ -6,7 +6,11 @@ Welcome to the grade 7 all the way to upper secondary math video! If you hover a
 
 Some content in this video is meant to be a joke.
 Do not take all of this video seriously.
+(Mask Cut)
+All mathematics in this video is true.
+If incorrect information is provided, please notify the creators.
 
+@
 
 **Why Math is important**
 
