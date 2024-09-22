@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"8bfd959f68b59a1a","type":"text","text":"Gas","x":220,"y":-29,"width":100,"height":60,"color":"1"},
+		{"id":"e8cbbbc8288b95eb","type":"text","text":"Fast","x":-100,"y":-29,"width":105,"height":60,"color":"#ffffff"},
+		{"id":"dcb8aab17fcd51e7","type":"text","text":"Plasma","x":481,"y":-29,"width":119,"height":60,"color":"3"},
+		{"id":"7b71fe22d947a27f","type":"text","text":"Flytande","x":40,"y":260,"width":141,"height":60,"color":"2"},
+		{"id":"2d9febe3c9975efe","x":0,"y":-280,"width":250,"height":60,"type":"text","text":""}
+	],
+	"edges":[
+		{"id":"cbe10e4a48aea0d1","fromNode":"8bfd959f68b59a1a","fromSide":"bottom","toNode":"e8cbbbc8288b95eb","toSide":"bottom","label":"Deposition"},
+		{"id":"3aa96670f5f6d3f4","fromNode":"e8cbbbc8288b95eb","fromSide":"top","toNode":"8bfd959f68b59a1a","toSide":"top","label":"Sublimering"},
+		{"id":"29f0126f392aea0b","fromNode":"e8cbbbc8288b95eb","fromSide":"left","toNode":"7b71fe22d947a27f","toSide":"left","label":"Smältning"},
+		{"id":"4a68273eee9eef48","fromNode":"8bfd959f68b59a1a","fromSide":"right","toNode":"7b71fe22d947a27f","toSide":"right","label":"Kondensation"},
+		{"id":"3c91f13b4fd992c3","fromNode":"8bfd959f68b59a1a","fromSide":"right","toNode":"dcb8aab17fcd51e7","toSide":"left","label":"Jonisering"},
+		{"id":"648ce98446f52401","fromNode":"dcb8aab17fcd51e7","fromSide":"top","toNode":"8bfd959f68b59a1a","toSide":"top","label":"Dejonisering"},
+		{"id":"f631556e5bb2dbc7","fromNode":"7b71fe22d947a27f","fromSide":"right","toNode":"8bfd959f68b59a1a","toSide":"bottom","label":"Förångning"},
+		{"id":"f0d056e40d602551","fromNode":"7b71fe22d947a27f","fromSide":"left","toNode":"e8cbbbc8288b95eb","toSide":"bottom","label":"Stelning"}
+	]
+}

@@ -1,0 +1,36 @@
+{
+	"nodes":[
+		{"id":"11fce8b7068dd916","type":"text","text":"Materia","x":-125,"y":-30,"width":250,"height":60,"color":"1"},
+		{"id":"1bc1f17fcd26633d","type":"text","text":"Blandningar","x":-297,"y":141,"width":250,"height":60,"color":"3"},
+		{"id":"1e191a83be834a32","type":"text","text":"Rena ämnen","x":54,"y":141,"width":250,"height":60,"color":"4"},
+		{"id":"37ba77a548b93bdf","type":"text","text":"Homogena blandningar","x":-514,"y":304,"width":250,"height":60,"color":"#ff00bb"},
+		{"id":"909d9ee67b124299","type":"text","text":"Homogena blandningar","x":-659,"y":451,"width":250,"height":60},
+		{"id":"7dc59c8f8545cb09","type":"text","text":"Emulsion","x":-260,"y":494,"width":145,"height":60},
+		{"id":"e4cc7d4cd06cfcc0","type":"text","text":"Kemisk förening","x":36,"y":346,"width":250,"height":50,"color":"5"},
+		{"id":"dfec85d764c3390f","type":"text","text":"Icke metaller","x":1000,"y":540,"width":250,"height":60},
+		{"id":"debf5442fafd0d7d","type":"text","text":"Halvmetaller","x":750,"y":540,"width":250,"height":60},
+		{"id":"d28193c1f78e2b2b","type":"text","text":"Metaller","x":500,"y":540,"width":250,"height":60},
+		{"id":"a68e9fcadffe2047","type":"text","text":"Grundämne","x":750,"y":311,"width":250,"height":60,"color":"6"},
+		{"id":"41b3368ac68659e7","type":"text","text":"Molekylförening","x":250,"y":494,"width":190,"height":60},
+		{"id":"1a359fa57a81fb52","type":"text","text":"Jonförening","x":36,"y":494,"width":171,"height":60},
+		{"id":"33e3014401f40230","type":"text","text":"Lösning\nExempelvis: Salt","x":-659,"y":580,"width":250,"height":60},
+		{"id":"fa9a4cc1cb63af80","type":"text","text":"Heterogena blandningar","x":-240,"y":304,"width":250,"height":60,"color":"2"}
+	],
+	"edges":[
+		{"id":"80396a240647ead0","fromNode":"11fce8b7068dd916","fromSide":"bottom","toNode":"1bc1f17fcd26633d","toSide":"top"},
+		{"id":"d27d08926829c27b","fromNode":"11fce8b7068dd916","fromSide":"bottom","toNode":"1e191a83be834a32","toSide":"top"},
+		{"id":"d14235249533a904","fromNode":"1bc1f17fcd26633d","fromSide":"bottom","toNode":"37ba77a548b93bdf","toSide":"top"},
+		{"id":"c405cd679a89684f","fromNode":"1bc1f17fcd26633d","fromSide":"bottom","toNode":"fa9a4cc1cb63af80","toSide":"top"},
+		{"id":"aca9f0b1233537c5","fromNode":"37ba77a548b93bdf","fromSide":"bottom","toNode":"909d9ee67b124299","toSide":"top"},
+		{"id":"92be3fda405da9b7","fromNode":"37ba77a548b93bdf","fromSide":"bottom","toNode":"7dc59c8f8545cb09","toSide":"top"},
+		{"id":"34fb32313f0626c1","fromNode":"fa9a4cc1cb63af80","fromSide":"bottom","toNode":"7dc59c8f8545cb09","toSide":"top"},
+		{"id":"c56a18f73c2eb516","fromNode":"909d9ee67b124299","fromSide":"bottom","toNode":"33e3014401f40230","toSide":"top"},
+		{"id":"d5db32236dd87c78","fromNode":"1e191a83be834a32","fromSide":"bottom","toNode":"e4cc7d4cd06cfcc0","toSide":"top"},
+		{"id":"a9da2789c52912d4","fromNode":"e4cc7d4cd06cfcc0","fromSide":"bottom","toNode":"1a359fa57a81fb52","toSide":"top"},
+		{"id":"b5d0dbf21696fda3","fromNode":"e4cc7d4cd06cfcc0","fromSide":"bottom","toNode":"41b3368ac68659e7","toSide":"top"},
+		{"id":"96e87e4cb1c30307","fromNode":"1e191a83be834a32","fromSide":"bottom","toNode":"a68e9fcadffe2047","toSide":"top"},
+		{"id":"308aedab5ce372f4","fromNode":"a68e9fcadffe2047","fromSide":"bottom","toNode":"d28193c1f78e2b2b","toSide":"top"},
+		{"id":"3b36cbeaf653b208","fromNode":"a68e9fcadffe2047","fromSide":"bottom","toNode":"debf5442fafd0d7d","toSide":"top"},
+		{"id":"aa98d2b17500832a","fromNode":"a68e9fcadffe2047","fromSide":"bottom","toNode":"dfec85d764c3390f","toSide":"top"}
+	]
+}
