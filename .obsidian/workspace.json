@@ -1,0 +1,188 @@
+{
+  "main": {
+    "id": "b345539ba99fb136",
+    "type": "split",
+    "children": [
+      {
+        "id": "8feab2c0524bf94e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c14dd864c6dc7e33",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b5beafc3b38d8bd0",
+    "type": "split",
+    "children": [
+      {
+        "id": "8cd8063e938d1826",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f4dfed6194e5ffed",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7607bdc0b11fe670",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ecc54401568740e1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "c426c25fbd6183b2",
+    "type": "split",
+    "children": [
+      {
+        "id": "22ea8077728abb74",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "61423ce4b6aad553",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7405f2698b371b88",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9ef197c818a2f6e3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6d4151fd5cef8f39",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "KEMI/1/Materia.canvas"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "publish:Publish changes...": false
+    }
+  },
+  "active": "f4dfed6194e5ffed",
+  "lastOpenFiles": [
+    "math/math",
+    "math",
+    "New folder",
+    "LWhxe main canvas.canvas",
+    "Diffie Hellman.md",
+    "AES-ENC reversal.md",
+    "AES-ENC reversal.canvas",
+    "Matematik/ÅK 7-9 Matematik.md",
+    "Matematik/ÅK 7-9 Matematik Script (SV).md",
+    "Matematik/Matematik 1-NATEK-2 Challenge.md",
+    "Matematik",
+    "Argumentary policy/Current argument.md",
+    "Argumentary policy/Argumentary policy.md",
+    "Argumentary policy/Argumentary construct.canvas",
+    "Argumentary policy",
+    "math/Matematik/ÅK 7-9 Matematik.md",
+    "math/Matematik/ÅK 7-9 Matematik Script (SV).md",
+    "math/Matematik/Matematik 1-NATEK-2 Challenge.md",
+    "math/Matematik",
+    "math/Argumentary policy/Current argument.md",
+    "math/Argumentary policy/Argumentary policy.md",
+    "math/Argumentary policy/Argumentary construct.canvas",
+    "math/Argumentary policy",
+    "KEMI/1/Lektion 5 - Materia.md",
+    "KEMI/Kemi.md",
+    "KEMI/1/Materia.canvas",
+    "Materia.png",
+    "KEMI/1/SplitChart.canvas",
+    "SplitChart.png",
+    "Materia 1.png",
+    "KEMI/1/Lektion 4 - Blandningar.md",
+    "KEMI/1/Lektion 3 - Bohrs Modell.md",
+    "KEMI/1/Lektion 2 - Atom Modellerna.md",
+    "KEMI/1/Lektion 1 - Atomer & Basics.md",
+    "Matematik/1/Riemann Sums.md",
+    "Matematik/1/Lektion 1 - Basics.md",
+    "SplitChart.md",
+    "Matematik/1",
+    "KEMI/1",
+    "KEMI"
+  ]
+}
