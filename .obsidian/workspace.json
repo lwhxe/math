@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "b345539ba99fb136",
+    "id": "1d1f6e1b262b75f1",
     "type": "split",
     "children": [
       {
-        "id": "8feab2c0524bf94e",
+        "id": "e0e15b6edd9560a1",
         "type": "tabs",
         "children": [
           {
-            "id": "c14dd864c6dc7e33",
+            "id": "f7e4488f33b8d826",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -21,25 +21,25 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "b5beafc3b38d8bd0",
+    "id": "67d616fb2880c498",
     "type": "split",
     "children": [
       {
-        "id": "8cd8063e938d1826",
+        "id": "15ac4c0117a37ca2",
         "type": "tabs",
         "children": [
           {
-            "id": "f4dfed6194e5ffed",
+            "id": "1e8d4d61d6a8e25f",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byCreatedTimeReverse"
               }
             }
           },
           {
-            "id": "7607bdc0b11fe670",
+            "id": "15387551f0930d07",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -54,7 +54,7 @@
             }
           },
           {
-            "id": "ecc54401568740e1",
+            "id": "891f1f586bb4e505",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -65,18 +65,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "c426c25fbd6183b2",
+    "id": "e02b984503cdccbe",
     "type": "split",
     "children": [
       {
-        "id": "22ea8077728abb74",
+        "id": "ed56a25de7afb49c",
         "type": "tabs",
         "children": [
           {
-            "id": "61423ce4b6aad553",
+            "id": "3f0bc2be7a7301b6",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -92,7 +92,7 @@
             }
           },
           {
-            "id": "7405f2698b371b88",
+            "id": "71c9614618393ce4",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -103,7 +103,7 @@
             }
           },
           {
-            "id": "9ef197c818a2f6e3",
+            "id": "5cb382f5dbbad0df",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -114,12 +114,24 @@
             }
           },
           {
-            "id": "6d4151fd5cef8f39",
+            "id": "fb2f4f7411445702",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "KEMI/1/Materia.canvas"
+                "file": "Matematik/ÅK 7-9 Matematik Script (SV).md"
+              }
+            }
+          },
+          {
+            "id": "aa55fc50863331ed",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -133,60 +145,67 @@
   "left-ribbon": {
     "hiddenItems": {
       "obsidian-git:Open Git source control": false,
+      "random-note:Open random note": false,
+      "publish:Publish changes...": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "publish:Publish changes...": false
+      "audio-recorder:Start/stop recording": false,
+      "markdown-importer:Open format converter": false,
+      "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "f4dfed6194e5ffed",
+  "active": "1e8d4d61d6a8e25f",
   "lastOpenFiles": [
     "Matematik/Mathematics Video/ÅK 7-9 Matematik.md",
     "Matematik/Mathematics Video/7-11 Matematik Script.md",
     "Matematik/Mathematics Video",
-    "Matematik/ÅK 7-9 Matematik.md",
-    "Matematik/ÅK 7-9 Matematik Script (SV).md",
-    "Matematik/Mathematics Video/ÅK 7-9 Matematik Script.md",
-    "Matematik/Mathematics Video/ÅK 7-9 Matematik Script (SV).md",
-    "Matematik/New folder",
+    "SplitChart.png",
     "Materia.png",
     "Matematik/1/Riemann Sums.md",
     "Matematik/1",
+    "KEMI/Kemi.md",
     "KEMI/1/SplitChart.canvas",
     "KEMI/1/Materia.canvas",
-    "KEMI/1/Lektion 1 - Atomer & Basics.md",
     "KEMI/1/Lektion 5 - Materia.md",
     "KEMI/1/Lektion 4 - Blandningar.md",
     "KEMI/1/Lektion 3 - Bohrs Modell.md",
     "KEMI/1/Lektion 2 - Atom Modellerna.md",
-    "KEMI/Kemi.md",
+    "KEMI/1/Lektion 1 - Atomer & Basics.md",
     "KEMI/1",
     "KEMI",
-    "SplitChart.png",
-    "math/math",
-    "math",
-    "New folder",
-    "LWhxe main canvas.canvas",
-    "Diffie Hellman.md",
-    "AES-ENC reversal.md",
-    "AES-ENC reversal.canvas",
+    "Matematik/ÅK 7-9 Matematik.md",
+    "Matematik/ÅK 7-9 Matematik Script (SV).md",
     "Matematik/Matematik 1-NATEK-2 Challenge.md",
     "Matematik",
+    "LWhxe main canvas.canvas",
+    "Diffie Hellman.md",
     "Argumentary policy/Current argument.md",
     "Argumentary policy/Argumentary policy.md",
     "Argumentary policy/Argumentary construct.canvas",
     "Argumentary policy",
-    "math/Matematik/ÅK 7-9 Matematik.md",
-    "math/Matematik/ÅK 7-9 Matematik Script (SV).md",
-    "math/Matematik/Matematik 1-NATEK-2 Challenge.md",
-    "math/Argumentary policy/Current argument.md",
-    "math/Argumentary policy/Argumentary policy.md",
-    "math/Argumentary policy/Argumentary construct.canvas",
-    "Materia 1.png",
-    "Matematik/1/Lektion 1 - Basics.md",
-    "SplitChart.md"
+    "AES-ENC reversal.md",
+    "AES-ENC reversal.canvas",
+    "math/rsa.pub.pub",
+    "math/rsa.pub",
+    "math",
+    "sheit.md",
+    "FCML.md",
+    "Untitled.canvas",
+    "Pasted image 20240904153619.png",
+    "ÅK.md",
+    "Manim-Math-NP.md",
+    "Salvation's Edge.canvas",
+    "Salvation's Edge.md",
+    "NP example.md",
+    "Einstein.md",
+    "[[Current.md",
+    "().md",
+    "Krasniqi.md",
+    "Screenshot 2023-10-26 200809.png",
+    "rasputin.ico"
   ]
 }
