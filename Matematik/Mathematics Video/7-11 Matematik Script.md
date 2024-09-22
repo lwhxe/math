@@ -1,3 +1,5 @@
+@Scene 1
+
 Welcome to the grade 7 all the way to upper secondary math video! If you hover above the video's timeline, you should see chapters indicating a math level or what's taught. If you want to see every chapter name, scroll down into the video description and you'll see some time links with chapter titles next to them. That's it, I hope you learn a lot!
 
 **Why Math is important**
