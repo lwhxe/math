@@ -16,8 +16,6 @@ Batta Chase JJBA intro version
 
 @Scene 3
 
-Translate To english:
-
 Många vuxna, t.o.m lärare, kommer att säga: "Det är viktigt för att Mathematik låter mänskighetens kunskap att fortsätta förbättras." Jag själv håller med, men gillar inte svaret.
 En vanlig person kommer aldrig att använda *super komplicerade* grejer inom Mathematik, enkla saker räcker för de flesta. T.ex. logik. Logik, om ni inte visste det redan, är också en del av Matte. Inte bara tal, utan också vad som är sant och falskt. Så när du listar ut om någon ljuger, så använder du själv, oftast omedvetet, logik. 
 
