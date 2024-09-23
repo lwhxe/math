@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Noelle_Alex_Alex_CokeDealerScene",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +77,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Matematik/Mathematics Video/ÅK 7-9 Matematik.md",
+                "file": "Matematik/Mathematics Video/7-11 Matematik Script.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Matematik/Mathematics Video/ÅK 7-9 Matematik.md",
+                "file": "Matematik/Mathematics Video/7-11 Matematik Script.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Matematik/Mathematics Video/ÅK 7-9 Matematik.md"
+                "file": "Matematik/Mathematics Video/7-11 Matematik Script.md"
               }
             }
           },
@@ -177,15 +177,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "63d5a9c33913a630",
+  "active": "fa10655190038f43",
   "lastOpenFiles": [
+    "Matematik/Mathematics Video/ÅK 7-9 Matematik.md",
     "Matematik/Mathematics Video/7-11 Matematik Script.md",
     "Materia.png",
     "LWhxe main canvas.canvas",
     "Diffie Hellman.md",
     "AES-ENC reversal.md",
     "AES-ENC reversal.canvas",
-    "Matematik/Mathematics Video/ÅK 7-9 Matematik.md",
     "Matematik/1/Riemann Sums.md",
     "Matematik/Mathematics Video",
     "Matematik/1",
