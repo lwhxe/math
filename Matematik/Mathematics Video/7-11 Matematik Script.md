@@ -10,7 +10,7 @@ Do not take all of this video seriously.
 All mathematics in this video is true.
 If incorrect information is provided, please notify the creators.
 (Cut)
-
+Batta Chase JJBA intro version
 
 **Why Math is important**
 
