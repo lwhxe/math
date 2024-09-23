@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "63d5a9c33913a630",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Matematik/Mathematics Video/ÅK 7-9 Matematik.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Matematik/Mathematics Video/7-11 Matematik Script.md",
+                "file": "Matematik/Mathematics Video/ÅK 7-9 Matematik.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Matematik/Mathematics Video/7-11 Matematik Script.md",
+                "file": "Matematik/Mathematics Video/ÅK 7-9 Matematik.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Matematik/Mathematics Video/7-11 Matematik Script.md"
+                "file": "Matematik/Mathematics Video/ÅK 7-9 Matematik.md"
               }
             }
           },
@@ -164,15 +177,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "75d065608c1d40e6",
+  "active": "63d5a9c33913a630",
   "lastOpenFiles": [
+    "Matematik/Mathematics Video/7-11 Matematik Script.md",
     "Materia.png",
     "LWhxe main canvas.canvas",
     "Diffie Hellman.md",
     "AES-ENC reversal.md",
     "AES-ENC reversal.canvas",
     "Matematik/Mathematics Video/ÅK 7-9 Matematik.md",
-    "Matematik/Mathematics Video/7-11 Matematik Script.md",
     "Matematik/1/Riemann Sums.md",
     "Matematik/Mathematics Video",
     "Matematik/1",
