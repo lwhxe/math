@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e96a0b0198dc3fdb",
+        "id": "0f9b47fc0ead2fe2",
         "type": "tabs",
         "children": [
           {
-            "id": "484d580a6c8e3959",
+            "id": "73d21f538fb85217",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -156,7 +156,7 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "484d580a6c8e3959",
+  "active": "73d21f538fb85217",
   "lastOpenFiles": [
     "Matematik/Mathematics Video/7-11 Matematik Script.md",
     "KEMI/Kemi.md",
