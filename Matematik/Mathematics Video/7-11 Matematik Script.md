@@ -9,6 +9,7 @@ Do not take all of this video seriously.
 (Mask Cut)
 All mathematics in this video is true.
 If incorrect information is provided, please notify the creators.
+(Cut)
 
 
 **Why Math is important**
