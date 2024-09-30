@@ -8,3 +8,4 @@ Ion-dipole, H bond, Dipole-dipole, Ion-induced dipole, Dipole-induced dipole, Di
 
 Vilken skillnad hittar vi mellan vatten och järn?
 - Ena är formbar, andra är väldigt fast och inte formbar.
+- 
