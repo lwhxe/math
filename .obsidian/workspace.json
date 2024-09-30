@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9d55167d3497ceae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Matematik/Mathematics Video/7-11 Matematik Script.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Matematik/Mathematics Video/7-11 Matematik Script.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Matematik/Mathematics Video/7-11 Matematik Script.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -164,15 +177,16 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "f7e4488f33b8d826",
+  "active": "9d55167d3497ceae",
   "lastOpenFiles": [
+    "Matematik/Mathematics Video/7-11 Matematik Script.md",
+    "Untitled.md",
     "Matematik/Math Challenge.md",
     "Matematik/Matematik 1-NATEK-2 Challenge.md",
     "KEMI/1/Lektion 3 - Bohrs Modell.md",
     "KEMI/1/Lektion 2 - Atom Modellerna.md",
     "KEMI/1/Lektion 1 - Atomer & Basics.md",
     "KEMI/Kemi.md",
-    "Matematik/Mathematics Video/7-11 Matematik Script.md",
     "Matematik/Mathematics Video/ÅK 7-9 Matematik.md",
     "Matematik/Mathematics Video",
     "SplitChart.png",
@@ -210,7 +224,6 @@
     "NP example.md",
     "Einstein.md",
     "[[Current.md",
-    "().md",
     "Screenshot 2023-10-26 200809.png",
     "rasputin.ico"
   ]
