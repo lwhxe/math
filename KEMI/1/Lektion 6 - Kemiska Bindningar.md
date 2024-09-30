@@ -11,3 +11,5 @@ Vattnets formbarhet kommer ifrån dess intermolekylär bindning, medan järnets 
 
 *Inter- Prefixet betyder tillsammans med eller mellan.* (H2O)
 *Prefixet Intra- betyder inuti/innanför.* (Fe)
+
+**Kovalenta Bindningar (Covalent Bonds)**
