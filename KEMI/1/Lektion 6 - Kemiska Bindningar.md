@@ -10,6 +10,6 @@ Vilken skillnad hittar vi mellan vatten och järn?
 - Ena är formbar, andra är väldigt fast och inte formbar.
 Vattnets formbarhet kommer ifrån dess intermolekylär bindning, medan järnets bindning kommer från en intramolekylär bindning.
 
-*Inter- Prefixet betyder tillsammans med eller mellan.* (Mellan menas i kemin)
-*Prefixet Intra- betyder inuti/innanför.* (innanför)
+*Inter- Prefixet betyder tillsammans med eller mellan.* (H_2O)
+*Prefixet Intra- betyder inuti/innanför.* (Fe)
 
