@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a85c7c4845adf45b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KEMI/1/Lektion 6 - Kemiska Bindningar.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KEMI/1/Lektion 6 - Kemiska Bindningar.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KEMI/1/Lektion 6 - Kemiska Bindningar.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -164,10 +177,11 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "9d55167d3497ceae",
+  "active": "a85c7c4845adf45b",
   "lastOpenFiles": [
-    "Untitled.canvas",
     "KEMI/1/Lektion 6 - Kemiska Bindningar.md",
+    "Untitled.md",
+    "Untitled.canvas",
     "Matematik/Mathematics Video/7-11 Matematik Script.md",
     "Matematik/Math Challenge.md",
     "Matematik/Matematik 1-NATEK-2 Challenge.md",
