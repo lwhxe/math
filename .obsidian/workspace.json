@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "a85c7c4845adf45b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "KEMI/1/Lektion 6 - Kemiska Bindningar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "KEMI/1/Lektion 6 - Kemiska Bindningar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "KEMI/1/Lektion 6 - Kemiska Bindningar.md"
               }
             }
           },
@@ -177,10 +164,10 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "a85c7c4845adf45b",
+  "active": "9d55167d3497ceae",
   "lastOpenFiles": [
+    "Lektion.md",
     "KEMI/1/Lektion 6 - Kemiska Bindningar.md",
-    "Untitled.md",
     "Untitled.canvas",
     "Matematik/Mathematics Video/7-11 Matematik Script.md",
     "Matematik/Math Challenge.md",
