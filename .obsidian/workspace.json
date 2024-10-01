@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KEMI/1/Lektion 6 - Kemiska Bindningar.md",
+                "file": "KEMI/1/Lektion 7 - Kovalenta Bindningar.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KEMI/1/Lektion 6 - Kemiska Bindningar.md",
+                "file": "KEMI/1/Lektion 7 - Kovalenta Bindningar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KEMI/1/Lektion 6 - Kemiska Bindningar.md",
+                "file": "KEMI/1/Lektion 7 - Kovalenta Bindningar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KEMI/1/Lektion 6 - Kemiska Bindningar.md"
+                "file": "KEMI/1/Lektion 7 - Kovalenta Bindningar.md"
               }
             }
           },
@@ -166,8 +166,9 @@
   },
   "active": "9d55167d3497ceae",
   "lastOpenFiles": [
-    "Lektion.md",
     "KEMI/1/Lektion 6 - Kemiska Bindningar.md",
+    "KEMI/1/Lektion 7 - Kovalenta Bindningar.md",
+    "Lektion.md",
     "Untitled.canvas",
     "Matematik/Mathematics Video/7-11 Matematik Script.md",
     "Matematik/Math Challenge.md",
@@ -210,7 +211,6 @@
     "Salvation's Edge.canvas",
     "Salvation's Edge.md",
     "NP example.md",
-    "Einstein.md",
     "Screenshot 2023-10-26 200809.png",
     "rasputin.ico"
   ]
