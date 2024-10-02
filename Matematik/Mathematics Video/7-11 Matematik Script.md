@@ -19,9 +19,11 @@ Batta Chase JJBA intro version
 Many adults, including teachers, are going to say: "It's important because mathematics lets our knowledge about the world broaden." I agree, but don't like the answer.
 A normal person would never use super complicated things in math, simple arithmetics work for most people's lives. For example logic is a part of math that is used by everyone. Whether correctly or not.
 
-@
-Men, om jag bara behöver det enklaste, varför ska jag lära mig resten då? 
+@Scene 4
 
+But I only need the simplest stuff, why should I learn the rest?
+
+Even if you don't use it regularly, or even at all, the brain teaches itself to think differently the more you learn. If you're trying to multiply $15 \cdot 15$, that's way more difficult than multiplying $10 \cdot 10$. However, learning to multiply numbers larger than $10$, will make your brain calculate the simpler lower numbers easier. It works just like this for all concepts in math, and even life! A cook who only knows how to cook spaghetti with meatballs and some ketchup, is limited. But when the cook learns to make different food, he beco
 För att hjärnan lär sig tänka annorlunda, när den löser svåra problem. Lätta problem blir lättare, efter du löser svårare problem. Om du tillagar en svår maträtt, så blir de lättare maträtterna, lättare att laga. Du hittar också fler lösningar, eller fler sätt att laga samma maträtt, så att den blir godare.
 
 Helt enkelt: Matte är viktigt att lära sig, för att de gör dig smartare.
