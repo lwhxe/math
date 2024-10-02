@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Matematik/Mathematics Video/7-11 Matematik Script.md",
+                "file": "Matematik/Mathematics Video/Quality Test - Conways Game of Life.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Matematik/Mathematics Video/7-11 Matematik Script.md",
+                "file": "Matematik/Mathematics Video/Quality Test - Conways Game of Life.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Matematik/Mathematics Video/7-11 Matematik Script.md",
+                "file": "Matematik/Mathematics Video/Quality Test - Conways Game of Life.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Matematik/Mathematics Video/7-11 Matematik Script.md"
+                "file": "Matematik/Mathematics Video/Quality Test - Conways Game of Life.md"
               }
             }
           },
@@ -166,13 +166,14 @@
   },
   "active": "20fb319a1f284e3b",
   "lastOpenFiles": [
+    "Matematik/Mathematics Video/7-11 Matematik Script.md",
+    "Matematik/Mathematics Video/Quality Test - Conways Game of Life.md",
     "Matematik/Mathematics Video/ÅK 7-9 Matematik.md",
     "Matematik/Math Challenge.md",
     "KEMI/1/Lektion 7 - Kovalenta Bindningar.md",
     "KEMI/1/Lektion 6 - Kemiska Bindningar.md",
     "conflict-files-obsidian-git.md",
     "Matematik/Matematik 1-NATEK-2 Challenge.md",
-    "Matematik/Mathematics Video/7-11 Matematik Script.md",
     "KEMI/1/Lektion 3 - Bohrs Modell.md",
     "KEMI/1/Lektion 2 - Atom Modellerna.md",
     "KEMI/1/Lektion 1 - Atomer & Basics.md",
@@ -210,7 +211,6 @@
     "Manim-Math-NP.md",
     "Salvation's Edge.canvas",
     "Salvation's Edge.md",
-    "NP example.md",
     "Screenshot 2023-10-26 200809.png",
     "rasputin.ico"
   ]
