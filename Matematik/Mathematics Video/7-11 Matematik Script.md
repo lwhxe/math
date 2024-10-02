@@ -16,12 +16,10 @@ Batta Chase JJBA intro version
 
 @Scene 3
 
-Many adults, including teachers, are going to say: "It's important because mathematics lets mankind continue to evolve it's knowledge." I agree, however I think it's a horrible answer for a student to hear.
-En vanlig person kommer aldrig att använda *super komplicerade* grejer inom Mathematik, enkla saker räcker för de flesta. T.ex. logik. Logik, om ni inte visste det redan, är också en del av Matte. Inte bara tal, utan också vad som är sant och falskt. Så när du listar ut om någon ljuger, så använder du själv, oftast omedvetet, logik. 
-
 Many adults, including teachers, are going to say: "It's important because mathematics lets our knowledge about the world broaden." I agree, but don't like the answer.
 A normal person would never use super complicated things in math, simple arithmetics work for most people's lives. For example logic is a part of math that is used by everyone. Whether correctly or not.
 
+@
 Men, om jag bara behöver det enklaste, varför ska jag lära mig resten då? 
 
 För att hjärnan lär sig tänka annorlunda, när den löser svåra problem. Lätta problem blir lättare, efter du löser svårare problem. Om du tillagar en svår maträtt, så blir de lättare maträtterna, lättare att laga. Du hittar också fler lösningar, eller fler sätt att laga samma maträtt, så att den blir godare.
