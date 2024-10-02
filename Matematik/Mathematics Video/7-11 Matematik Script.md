@@ -16,14 +16,12 @@ Batta Chase JJBA intro version
 
 @Scene 3
 
-<<<<<<< HEAD
 Many adults, including teachers, are going to say: "It's important because mathematics lets mankind"
 Många vuxna, t.o.m lärare, kommer att säga: "Det är viktigt för att Mathematik låter mänskighetens kunskap att fortsätta förbättras." Jag själv håller med, men gillar inte svaret.
 En vanlig person kommer aldrig att använda *super komplicerade* grejer inom Mathematik, enkla saker räcker för de flesta. T.ex. logik. Logik, om ni inte visste det redan, är också en del av Matte. Inte bara tal, utan också vad som är sant och falskt. Så när du listar ut om någon ljuger, så använder du själv, oftast omedvetet, logik. 
 
 Many adults, including teachers, are going to say: "It's important because mathematics lets our knowledge about the world broaden." I agree, but don't like the answer.
 A normal person would never use super complicated things in math, simple arithmetics work for most people's lives. For example logic is a part of math that is used by everyone. Whether correctly or not.
->>>>>>> origin/main
 
 Men, om jag bara behöver det enklaste, varför ska jag lära mig resten då? 
 
@@ -33,7 +31,7 @@ Helt enkelt: Matte är viktigt att lära sig, för att de gör dig smartare.
 
 **Taluppfattning och tals användning:**
 
- Reella tal är dem som finns på den vanliga tallinjen. T.ex $1, 2, 3$. Men, ni kanske lägger märket till att det finns tal åt andra hållet med... Tal som är mindre än $0$. Negativa tal. Men, hur kan någonting vara mindre än $0$? Om vi pratar pengar, så kan du ha mindre än $0$ kr, om du har tagit ett lån. Du kommer inte att se ett  negativt tal i bankkontot, men om man skulle räkna ihop allting, så kan du ha mindre än 0 pengar. #Noelle_Alex_Alex_CokeDealerScene
+ Reella tal är dem som finns på den vanliga tallinjen. T.ex $1, 2, 3$. Men, ni kanske lägger märket till att det finns tal åt andra hållet med... Tal som är mindre än $0$. Negativa tal. Men, hur kan någonting vara mindre än $0$? Om vi pratar pengar, så kan du ha mindre än $0$ kr, om du har tagit ett lån. Du kommer inte att se ett  negativt tal i bankkontot, men om man skulle räkna ihop allting, så kan du ha mindre än $0$ pengar. #Noelle_Alex_Alex_CokeDealerScene
 
 Han har $1000000$ kr, han har 1 milj. kr, han har $1 \cdot 10^6$ kr.
 
