@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f248c0309ce9f184",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Matematik/Mathematics Video/7-11 Matematik Script.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Matematik/Mathematics Video/7-11 Matematik Script.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Matematik/Mathematics Video/7-11 Matematik Script.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -164,10 +177,10 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "9d55167d3497ceae",
+  "active": "f248c0309ce9f184",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Matematik/Mathematics Video/7-11 Matematik Script.md",
+    "conflict-files-obsidian-git.md",
     "Matematik/Mathematics Video/conway.cpp",
     "Matematik/Mathematics Video/Quality Test - Conways Game of Life.md",
     "Matematik/Mathematics Video/ÅK 7-9 Matematik.md",
