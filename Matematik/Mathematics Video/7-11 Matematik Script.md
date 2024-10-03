@@ -35,6 +35,8 @@ Then there's rational numbers ($\mathbb{Q}$), like $3.5$ or $1.2536$.
 Irrational numbers ($\mathbb{I}$), like $\sqrt{2}$.
 And finally, transcendental numbers ($\mathbb{R}\backslash\overline{\mathbb{Q}}$) like $\pi$ or $e$.
 
+These 
+
  Reella tal är dem som finns på den vanliga tallinjen. T.ex $1, 2, 3$. Men, ni kanske lägger märket till att det finns tal åt andra hållet med... Tal som är mindre än $0$. Negativa tal. Men, hur kan någonting vara mindre än $0$? Om vi pratar pengar, så kan du ha mindre än $0$ kr, om du har tagit ett lån. Du kommer inte att se ett  negativt tal i bankkontot, men om man skulle räkna ihop allting, så kan du ha mindre än $0$ pengar. #Noelle_Alex_Alex_CokeDealerScene
 
 Han har $1000000$ kr, han har 1 milj. kr, han har $1 \cdot 10^6$ kr.
