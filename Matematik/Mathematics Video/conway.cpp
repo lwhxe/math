@@ -58,6 +58,7 @@ int countalive(const vector<vector<int>>& map, int point[2]) {
     for (int k = -1; k <= 1; k++) {
         for (int l = -1; l <= 1; l++) {
             if (k == 0 && l == 0) {
+                point_value = map[x][y];
                 continue;
             }
 
@@ -66,9 +67,7 @@ int countalive(const vector<vector<int>>& map, int point[2]) {
 
             if (nx >= 0 && nx < map.size() && ny >= 0 && ny < map[0].size()) {
                 alive_count += map[nx][ny];
-                continue;
             }
-            point_value = map[nx][ny];
         }
     }
     if(point_value) {
