@@ -68,7 +68,7 @@ int countalive(const vector<vector<int>>& map, int point[2]) {
                 alive_count += map[nx][ny];
                 continue;
             }
-            int point_value = map[nx][ny];
+            point_value = map[nx][ny];
         }
     }
     if(point_value) {
