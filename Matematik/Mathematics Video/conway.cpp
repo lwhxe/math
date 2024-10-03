@@ -53,6 +53,7 @@ int countalive(const vector<vector<int>>& map, int point[2]) {
     int alive_count = 0;
     int x = point[0];
     int y = point[1];
+    int point_value 
     
     for (int k = -1; k <= 1; k++) {
         for (int l = -1; l <= 1; l++) {
