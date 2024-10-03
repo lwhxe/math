@@ -7,7 +7,7 @@
 
 using namespace std;
 
-#define grid_size 19
+#define grid_size 10
 
 int generate_random_number() {
     std::random_device rd;
@@ -43,6 +43,7 @@ int printmap(vector<vector<int>> map) {
 		}
 		cout << "\033[37m" << endl;
 	}
+    cout << endl << endl << "Alive cells: " << counting << endl;
 	if(counting == 0) {
 		return 1;
 	}
@@ -71,7 +72,7 @@ int countalive(const vector<vector<int>>& map, int point[2]) {
         }
     }
     if(point_value) {
-        return (alive_count > 2 && alive_count < 4) ? 1 : 0;
+        return (alive_count > 1 && alive_count < 4) ? 1 : 0;
     }
     return (alive_count == 3) ? 1 : 0;
 }
@@ -96,16 +97,19 @@ int main() {
 	printmap(map);
 
 	cout << endl << "Starting grid initialized..." << endl;
+    
+    vector<vector<int>> temp_map(map.size(), vector<int>(map.size()));
 
 	sleep(2);
 	
 	for(int i = 1; i != 0; i++) {
 		map = newmap(map);
 		sleep(1);
-		if(printmap(map) == 1) {
+		if(printmap(map) == 1 || temp_map == map) {
 			cout << endl << "Time: " << i << endl;
 			exit(0);
 		}
+        temp_map = map;
 		cout << endl << "Time: " << i << endl;
 	}
 	return 0;
