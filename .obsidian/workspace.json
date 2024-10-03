@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9d55167d3497ceae",
+            "id": "20fb319a1f284e3b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -164,21 +164,17 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "9d55167d3497ceae",
+  "active": "20fb319a1f284e3b",
   "lastOpenFiles": [
-    "Matematik/Mathematics Video/ÅK 7-9 Matematik.md",
-    "Matematik/Mathematics Video/7-11 Matematik Script.md",
-    "Matematik/Mathematics Video/conway.cpz~",
-    "Matematik/Mathematics Video/conway.cpp~",
     "Matematik/Mathematics Video/conway.exe",
-    "conflict-files-obsidian-git.md",
     "Matematik/Mathematics Video/conway.cpp",
+    "Matematik/Mathematics Video/7-11 Matematik Script.md",
     "Matematik/Mathematics Video/Quality Test - Conways Game of Life.md",
+    "Matematik/Mathematics Video/ÅK 7-9 Matematik.md",
+    "Matematik/Math Challenge.md",
     "KEMI/1/Lektion 7 - Kovalenta Bindningar.md",
     "KEMI/1/Lektion 6 - Kemiska Bindningar.md",
-    "Lektion.md",
-    "Untitled.canvas",
-    "Matematik/Math Challenge.md",
+    "conflict-files-obsidian-git.md",
     "Matematik/Matematik 1-NATEK-2 Challenge.md",
     "KEMI/1/Lektion 3 - Bohrs Modell.md",
     "KEMI/1/Lektion 2 - Atom Modellerna.md",
@@ -206,10 +202,15 @@
     "Argumentary policy",
     "AES-ENC reversal.md",
     "AES-ENC reversal.canvas",
+    "math/rsa.pub.pub",
+    "math/rsa.pub",
+    "math",
     "sheit.md",
     "FCML.md",
+    "Untitled.canvas",
     "Pasted image 20240904153619.png",
     "ÅK.md",
+    "Manim-Math-NP.md",
     "Salvation's Edge.canvas",
     "Screenshot 2023-10-26 200809.png"
   ]
