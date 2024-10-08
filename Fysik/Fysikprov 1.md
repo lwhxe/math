@@ -1,0 +1,1 @@
+Hastighet $[m/s] {v}$
