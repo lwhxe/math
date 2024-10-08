@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Matematik/Mathematics Video/Quality Test - Conways Game of Life.md",
+                "file": "Fysik/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Matematik/Mathematics Video/Quality Test - Conways Game of Life.md",
+                "file": "Fysik/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Matematik/Mathematics Video/Quality Test - Conways Game of Life.md",
+                "file": "Fysik/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Matematik/Mathematics Video/Quality Test - Conways Game of Life.md"
+                "file": "Fysik/Untitled.md"
               }
             }
           },
@@ -164,13 +164,14 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "1e8d4d61d6a8e25f",
+  "active": "20fb319a1f284e3b",
   "lastOpenFiles": [
+    "Matematik/Mathematics Video/Quality Test - Conways Game of Life.md",
+    "Fysik/Untitled.md",
     "Fysik",
     "KEMI/1/Lektion 8 - Jonbindningar och Salter.md",
     "Matematik/Mathematics Video/7-11 Matematik Script.md",
     "Matematik/Mathematics Video/ÅK 7-9 Matematik.md",
-    "Matematik/Mathematics Video/Quality Test - Conways Game of Life.md",
     "Matematik/Mathematics Video/conway.exe",
     "Matematik/Mathematics Video/conway.cpp",
     "Matematik/Math Challenge.md",
@@ -205,7 +206,6 @@
     "AES-ENC reversal.md",
     "AES-ENC reversal.canvas",
     "math/rsa.pub.pub",
-    "math/rsa.pub",
     "sheit.md",
     "FCML.md",
     "Untitled.canvas",
