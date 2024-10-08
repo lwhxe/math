@@ -7,7 +7,7 @@
 
 using namespace std;
 
-#define grid_size 10
+#define grid_size 10000
 
 int generate_random_number() {
     std::random_device rd;
@@ -30,22 +30,16 @@ vector<vector<int>> initialize(int size) {
 
 int printmap(vector<vector<int>> map) {
 	cout << "\033[H\033[J";
-	int counting = 0;
 
 	for(int i = 0; i < map.size(); i++) {
 		for(int j = 0; j < map.size(); j++) {
 			if(map[i][j] == 1) {
-				counting++;
 				cout << "\033[32m" << map[i][j] << " ";
 			} else {
 				cout << "\033[39m" << map[i][j] << " ";
 			}
 		}
 		cout << "\033[37m" << endl;
-	}
-    cout << endl << endl << "Alive cells: " << counting << endl;
-	if(counting == 0) {
-		return 1;
 	}
 	return 0;
 }
@@ -55,7 +49,7 @@ int countalive(const vector<vector<int>>& map, int point[2]) {
     int x = point[0];
     int y = point[1];
     int point_value;
-    
+
     for (int k = -1; k <= 1; k++) {
         for (int l = -1; l <= 1; l++) {
             if (k == 0 && l == 0) {
@@ -71,21 +65,27 @@ int countalive(const vector<vector<int>>& map, int point[2]) {
             }
         }
     }
-    if(point_value) {
-        return (alive_count > 1 && alive_count < 4) ? 1 : 0;
-    }
-    return (alive_count == 3) ? 1 : 0;
+
+    return point_value ? ((alive_count > 1 && alive_count < 4) ? 1 : 0) : ((alive_count == 3) ? 1 : 0);
 }
 
 
-vector<vector<int>> newmap(vector<vector<int>> map) {
+vector<vector<int>> newmap(vector<vector<int>> map, int time) {
 	vector<vector<int>> new_map(map.size(), vector<int>(map.size()));
+    int alive_points = 0;
 
 	for(int i = 0; i < map.size(); i++) {
 		for(int j = 0; j < map.size(); j++) {
 			int point[2] = {i, j};
 			new_map[i][j] = countalive(map, point);
+            alive_points += new_map[i][j];
 		}
+	}
+
+    if(alive_points == 0 || map == new_map) {
+        printmap(new_map);
+		cout << endl << "Time: " << time << endl;
+		exit(0);
 	}
 
 	return new_map;
@@ -98,19 +98,11 @@ int main() {
 
 	cout << endl << "Starting grid initialized..." << endl;
     
-    vector<vector<int>> temp_map(map.size(), vector<int>(map.size()));
-
-	sleep(2);
+	// sleep(2);
 	
-	for(int i = 1; i != 0; i++) {
-		map = newmap(map);
-		sleep(1);
-		if(printmap(map) == 1 || temp_map == map) {
-			cout << endl << "Time: " << i << endl;
-			exit(0);
-		}
-        temp_map = map;
-		cout << endl << "Time: " << i << endl;
+	for(int i = 1; i <= 100; i++) {
+		map = newmap(map, i);
+		// sleep(1);
 	}
 	return 0;
 }
