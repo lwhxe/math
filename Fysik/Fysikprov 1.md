@@ -7,4 +7,7 @@ Tid $(t)$ mäts i sekunder $(s)$.
 Distans $(d)$ mäts i meter $(m)$.
 Hastighet $(v)$ mäts i meter per sekunder $(m/s)$
 Acceleration $(a)$ mäts i meter per sekund per sekund $(m/s/s)$,
-eller hastighet per sekund $(v/s)$
+eller hastighet per sekund $(v/s)$, eller simplifierat $(m/s^2)$.
+
+Gravitation är på simplifierat sätt en acceleration.
+Acceleration är $a$
