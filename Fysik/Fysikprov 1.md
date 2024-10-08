@@ -10,4 +10,6 @@ Acceleration $(a)$ mäts i meter per sekund per sekund $(m/s/s)$,
 eller hastighet per sekund $(v/s)$, eller simplifierat $(m/s^2)$.
 
 Gravitation är på simplifierat sätt en acceleration.
-Acceleration är $a$
+Acceleration är $a$. Gravitation är $g$.
+Fast båda mäts i $(m/s^2)$.
+
