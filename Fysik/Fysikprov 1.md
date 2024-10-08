@@ -13,3 +13,6 @@ Gravitation är på simplifierat sätt en acceleration.
 Acceleration är $a$. Gravitation är $g$.
 Fast båda mäts i $(m/s^2)$.
 
+---
+
+Bollen accelererar med $1 m/s^2$ mot en vägg $20 m$ bort.
