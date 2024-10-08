@@ -6,4 +6,5 @@ Acceleration $[m/s^2] \{a\}$
 Tid $(t)$ mäts i sekunder $(s)$.
 Distans $(d)$ mäts i meter $(m)$.
 Hastighet $(v)$ mäts i meter per sekunder $(m/s)$
-Acceleration $(a)$ mäts i meter per sekund per sekund. Eller
+Acceleration $(a)$ mäts i meter per sekund per sekund $(m/s/s)$,
+eller hastighet per sekund $(v/s)$
