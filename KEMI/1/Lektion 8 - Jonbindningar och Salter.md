@@ -3,7 +3,7 @@
 
 - Exempel, vilka joner bildas: s.118
 - Vi blandar $Mg$ och $O \rightarrow Mg^{2+}O^{2-}$
-- Vi blandar $Ba$ och $I \rightarrow Ba^{2+}I_2^-$
+- Vi blandar $Ba$ och $2I \rightarrow Ba^{2+}I_2^-$
 - Vi blandar $2Al$ och $3O \rightarrow Al^{3+}_2O^{2-}_3$
 
 **Starka jonbindningar.**

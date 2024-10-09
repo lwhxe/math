@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diffie Hellman.md",
+                "file": "Fysik/Fysikprov 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diffie Hellman.md",
+                "file": "Fysik/Fysikprov 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Diffie Hellman.md",
+                "file": "Fysik/Fysikprov 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diffie Hellman.md"
+                "file": "Fysik/Fysikprov 1.md"
               }
             }
           },
@@ -166,10 +166,12 @@
   },
   "active": "20fb319a1f284e3b",
   "lastOpenFiles": [
-    "Fysik/Fysikprov 1.md",
-    "Matematik/Mathematics Video/Quality Test - Conways Game of Life.md",
-    "Fysik",
     "KEMI/1/Lektion 8 - Jonbindningar och Salter.md",
+    "Fysik/Fysikprov 1.md",
+    "Fysik",
+    "KEMI/Kemi.md",
+    "Matematik/Mathematics Video/Quality Test - Conways Game of Life.md",
+    "Matematik/Mathematics Video/conway.cpp~",
     "Matematik/Mathematics Video/7-11 Matematik Script.md",
     "Matematik/Mathematics Video/ÅK 7-9 Matematik.md",
     "Matematik/Mathematics Video/conway.exe",
@@ -182,7 +184,6 @@
     "KEMI/1/Lektion 3 - Bohrs Modell.md",
     "KEMI/1/Lektion 2 - Atom Modellerna.md",
     "KEMI/1/Lektion 1 - Atomer & Basics.md",
-    "KEMI/Kemi.md",
     "Matematik/Mathematics Video",
     "SplitChart.png",
     "Materia.png",
@@ -205,7 +206,6 @@
     "Argumentary policy",
     "AES-ENC reversal.md",
     "AES-ENC reversal.canvas",
-    "math/rsa.pub.pub",
     "sheit.md",
     "FCML.md",
     "Untitled.canvas",
