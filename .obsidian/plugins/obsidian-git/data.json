@@ -17,7 +17,7 @@
   "autoBackupAfterFileChange": false,
   "treeStructure": false,
   "refreshSourceControl": true,
-  "basePath": "C:\\Temp\\obsidian-lwhxe\\LWhxe\\",
+  "basePath": "C:\\Temp\\obsidian-lwhxe\\LWhxe\\.git",
   "differentIntervalCommitAndPush": false,
   "changedFilesInStatusBar": true,
   "showedMobileNotice": true,
