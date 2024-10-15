@@ -4,6 +4,8 @@ $$V=\frac{4\pi r^3}{3}$$
 Då vi har radien ($r$), kan vi räkna ut att volymen ($V$) är:
 $$523.58\overline3cm^3=\frac{4\pi 5^3cm^3}{3}$$
 Nu då vi har volymen, kan vi räkna ut hur stor massa den har. Vi gör detta genom densiteten. I detta fall har vi järn, som har densiteten $7.874 g/cm^3$ . 
+
+Men hur använder man detta? Jo om man har en kvadrat som har 5
 2. **Vid de olympiska spelen i Aten 2004 vann Julija Nesterenko $100$ m-finalen för damer på tiden $10.93$ s. Herrarnas final vanns av Justin Gatlin på tiden $9.85$ s.**
 
 **a.) Beräkna Julija Nesterenkos medelhastighet under loppet.**
