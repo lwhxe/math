@@ -11,8 +11,12 @@
             "id": "20fb319a1f284e3b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Fysik/Fysikprov 1.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Fysik/Fysikprov 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Fysik/Fysikprov 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Matematik/Mathematics Video/7-11 Matematik Script.md"
+                "file": "Fysik/Fysikprov 1.md"
               }
             }
           },
@@ -158,50 +164,51 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "1e8d4d61d6a8e25f",
+  "active": "20fb319a1f284e3b",
   "lastOpenFiles": [
-    "SplitChart.png",
-    "Materia.png",
-    "Matematik/Mathematics Video/ÅK 7-9 Matematik.md",
+    "KEMI/1/Lektion 9 - Intramolekylära Bindningar.md",
+    "Diffie Hellman.md",
+    "Fysik/Fysikprov 1.md",
     "Matematik/Mathematics Video/Quality Test - Conways Game of Life.md",
+    "Fysik",
+    "KEMI/1/Lektion 8 - Jonbindningar och Salter.md",
+    "Matematik/Mathematics Video/7-11 Matematik Script.md",
+    "Matematik/Mathematics Video/ÅK 7-9 Matematik.md",
     "Matematik/Mathematics Video/conway.exe",
     "Matematik/Mathematics Video/conway.cpp",
-    "Matematik/Mathematics Video/7-11 Matematik Script.md",
-    "Matematik/1/Riemann Sums.md",
-    "Matematik/Mathematics Video",
-    "Matematik/Matematik 1-NATEK-2 Challenge.md",
-    "Matematik/1",
-    "Matematik",
-    "LWhxe main canvas.canvas",
-    "KEMI/1/SplitChart.canvas",
-    "KEMI/1/Materia.canvas",
-    "KEMI/1/Lektion 8 - Jonbindningar och Salter.md",
+    "Matematik/Math Challenge.md",
     "KEMI/1/Lektion 7 - Kovalenta Bindningar.md",
     "KEMI/1/Lektion 6 - Kemiska Bindningar.md",
-    "KEMI/1/Lektion 5 - Materia.md",
-    "KEMI/1/Lektion 4 - Blandningar.md",
+    "conflict-files-obsidian-git.md",
+    "Matematik/Matematik 1-NATEK-2 Challenge.md",
     "KEMI/1/Lektion 3 - Bohrs Modell.md",
     "KEMI/1/Lektion 2 - Atom Modellerna.md",
     "KEMI/1/Lektion 1 - Atomer & Basics.md",
     "KEMI/Kemi.md",
+    "Matematik/Mathematics Video",
+    "SplitChart.png",
+    "Materia.png",
+    "Matematik/1/Riemann Sums.md",
+    "Matematik/1",
+    "KEMI/1/SplitChart.canvas",
+    "KEMI/1/Materia.canvas",
+    "KEMI/1/Lektion 5 - Materia.md",
+    "KEMI/1/Lektion 4 - Blandningar.md",
     "KEMI/1",
     "KEMI",
-    "Fysik/Fysikprov 1.md",
-    "Fysik",
-    "Diffie Hellman.md",
+    "Matematik/ÅK 7-9 Matematik.md",
+    "Matematik/ÅK 7-9 Matematik Script (SV).md",
+    "Matematik",
+    "LWhxe main canvas.canvas",
     "Argumentary policy/Current argument.md",
     "Argumentary policy/Argumentary policy.md",
     "Argumentary policy/Argumentary construct.canvas",
     "Argumentary policy",
     "AES-ENC reversal.md",
     "AES-ENC reversal.canvas",
-    "KEMI/1/Lektion 9 - Metall Bindningar.md",
-    "KEMI/1/Lektion 9 -.md",
-    "Matematik/Mathematics Video/conway.cpp~",
-    "Matematik/Math Challenge.md",
-    "conflict-files-obsidian-git.md",
-    "Matematik/ÅK 7-9 Matematik.md",
-    "Matematik/ÅK 7-9 Matematik Script (SV).md",
+    "math/rsa.pub.pub",
+    "sheit.md",
+    "FCML.md",
     "Untitled.canvas",
     "Pasted image 20240904153619.png",
     "Salvation's Edge.canvas",
