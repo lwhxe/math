@@ -63,7 +63,7 @@ Det lättaste sättet att förstå tvåan som kommer från ingenstans, är att t
 $$d=\frac{at^2}{2}$$
 De som kollade noga, inser kanske att distans och tid-formlerna är liknande. Och det beror på att det är samma formel, fast bara olika ordningar.
 
-När vi multiplicerar
+När vi multiplicerar accelerationen med tid, så får vi ju hastigheten vid den tidpunkten. Fast vi vill ha medelhastigheten, då måste vi dividera hastigheten med 2. Först då kan vi multiplicera hastigheten med tiden igen, för att få distansen vi har åkt. Om v 
 
 ---
 <div style="page-break-after: always;"></div>
