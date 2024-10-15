@@ -1,5 +1,6 @@
 1. **En kula med radien $5.0$ cm är gjord av järn. Beräkna kulans massa.**
-Vi vill först lista ut hur stor kulan är, alltså en sfär eller ett k
+Vi vill först lista ut hur stor kulan är, alltså en sfär eller ett klot. Hur räknar man ut någonting sådant? Jo med den nedanstående formeln.
+$$V=$$
 2. **Vid de olympiska spelen i Aten 2004 vann Julija Nesterenko $100$ m-finalen för damer på tiden $10.93$ s. Herrarnas final vanns av Justin Gatlin på tiden $9.85$ s.**
 
 **a.) Beräkna Julija Nesterenkos medelhastighet under loppet.**
