@@ -10,6 +10,16 @@ Svaret är 25. Det betyder att vi kan multiplicera antalet punkter per kvadrat. 
 $$25 \text{punkter} = 5\text{punkter/kvadrat}\cdot 5\text {kvadrater}$$
 En division med **kvadrat** och multiplikation med **kvadrater** tar ut varandra. Alltså kan man öka detta med en dimension. Nu säger vi att punkterna finns i en kub.
 $$25 \text{punkter} = 5\text{punkter/kub}\cdot 5\text {kuber}$$
+Här så är det exakt samma princip som förut. Denna gången är enda skillnaden att en division med **kub** och multiplikation med **kuber** tar ut varandra.
+Alltså funkar konceptet i 3D också.
+
+Idén med punkter är samma sak som massa ($m$).  Det ända som ändras är enheten.
+
+Alltså kan man skriva densitet som massa per volym ($m/V$).
+Vanligaste enheterna som man använder i detta fall är $g/cm^3$.
+Då båda är standardenheter i det metriska systemet, och vatten då får en densitet på $1 g/cm^3$.
+
+Då vi har densiteten av järn 25 \text{punkter} = 5\text{punkter/kvadrat}\cdot 5\text {kvadrater}
 
 2. **Vid de olympiska spelen i Aten 2004 vann Julija Nesterenko $100$ m-finalen för damer på tiden $10.93$ s. Herrarnas final vanns av Justin Gatlin på tiden $9.85$ s.**
 
