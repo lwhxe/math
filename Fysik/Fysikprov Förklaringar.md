@@ -3,3 +3,4 @@
 a.) Beräkna Julija Nesterenkos medelhastighet under loppet.
 b.) Tänk dig att båda hade startat samtidigt. Hur långt hade i så fall Julija kvar att springa då Justin passerade mållinjen?
 
+5. En liten sten släpps ned i ett $30$ m djupt gruvhål. Efter hur lång tid hörs ljudet d
