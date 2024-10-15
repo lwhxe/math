@@ -1,0 +1,1 @@
+1. En kula med radien 5.0
