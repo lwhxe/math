@@ -1,6 +1,9 @@
 1. En kula med radien $5.0$ cm är gjord av järn. Beräkna kulans massa.
+
 2. Vid de olympiska spelen i Aten 2004 vann Julija Nesterenko $100$ m-finalen för damer på tiden $10.93$ s. Herrarnas final vanns av Justin Gatlin på tiden $9.85$ s.
 a.) Beräkna Julija Nesterenkos medelhastighet under loppet.
 b.) Tänk dig att båda hade startat samtidigt. Hur långt hade i så fall Julija kvar att springa då Justin passerade mållinjen?
 
-5. En liten sten släpps ned i ett $30$ m djupt gruvhål. Efter hur lång tid hörs ljudet d
+5. En liten sten släpps ned i ett $30$ m djupt gruvhål. Efter hur lång tid hörs ljudet då stenen slår botten på hålet? Den som lyssnar står bredvid gruvhålet. Ljudets hastighet är $340$ m/s. Bortse från luftmotståndet.
+
+7. En person A har en bil som kan accelerera från sst
