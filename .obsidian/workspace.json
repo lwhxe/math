@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "e02b984503cdccbe",
@@ -164,7 +165,7 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "20fb319a1f284e3b",
+  "active": "1e8d4d61d6a8e25f",
   "lastOpenFiles": [
     "KEMI/1/Lektion 9 - Intramolekylära Bindningar.md",
     "Diffie Hellman.md",
