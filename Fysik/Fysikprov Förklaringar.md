@@ -63,6 +63,8 @@ Det lättaste sättet att förstå tvåan som kommer från ingenstans, är att t
 $$d=\frac{at^2}{2}$$
 De som kollade noga, inser kanske att distans och tid-formlerna är liknande. Och det beror på att det är samma formel, fast bara olika ordningar.
 
+När vi multiplicerar
+
 ---
 <div style="page-break-after: always;"></div>
 
