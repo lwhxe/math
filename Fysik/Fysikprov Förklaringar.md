@@ -5,7 +5,11 @@ Då vi har radien ($r$), kan vi räkna ut att volymen ($V$) är:
 $$523.58\overline3cm^3=\frac{4\pi 5^3cm^3}{3}$$
 Nu då vi har volymen, kan vi räkna ut hur stor massa den har. Vi gör detta genom densiteten. I detta fall har vi järn, som har densiteten $7.874 g/cm^3$ . 
 
-Men hur använder man detta? Jo, om man har en kvadrat som har $5$ punkter i sig. *Det spelar ingen roll vilken geometrisk form du väljer; Det kan vara en cirkel eller triangel också.* Om jag gör så att kvadraten är 5 gånger större och punkterna behåller sin täthet
+Men hur använder man detta? Jo, om man har en kvadrat som har $5$ punkter i sig. *Det spelar ingen roll vilken geometrisk form du väljer; Det kan vara en cirkel eller triangel också.* Om jag gör så att kvadraten är 5 gånger större och punkterna behåller sin täthet: Hur många punkter kommer få plats i kvadraten?
+Svaret är 25. Det betyder att vi kan multiplicera antalet punkter per kvadrat. Med ökningen i kvadratens storlek.
+$$25 \text{punkter} = 5\text{punkter/kvadrat}\cdot 5\text {kvadrater}$$
+En division med **kvadrat** och multiplikation med **kvadrater** tar ut varandra. Alltså kan man öka detta med en dimension. Nu säger vi att punkterna finns i en kub.
+$$25 \text{punkter} = 5\text{punkter/kub}\cdot 5\text {kuber}$$
 
 2. **Vid de olympiska spelen i Aten 2004 vann Julija Nesterenko $100$ m-finalen för damer på tiden $10.93$ s. Herrarnas final vanns av Justin Gatlin på tiden $9.85$ s.**
 
