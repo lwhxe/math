@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fysik/Fysikprov 1.md",
+                "file": "Fysik/Fysikprov Förklaringar.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fysik/Fysikprov 1.md",
+                "file": "Fysik/Fysikprov Förklaringar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fysik/Fysikprov 1.md",
+                "file": "Fysik/Fysikprov Förklaringar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fysik/Fysikprov 1.md"
+                "file": "Fysik/Fysikprov Förklaringar.md"
               }
             }
           },
@@ -165,11 +165,11 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "1e8d4d61d6a8e25f",
+  "active": "20fb319a1f284e3b",
   "lastOpenFiles": [
     "KEMI/1/Lektion 9 - Intramolekylära Bindningar.md",
     "Diffie Hellman.md",
-    "Fysik/Fysikprov 1.md",
+    "Fysik/Fysikprov Förklaringar.md",
     "Matematik/Mathematics Video/Quality Test - Conways Game of Life.md",
     "Fysik",
     "KEMI/1/Lektion 8 - Jonbindningar och Salter.md",
