@@ -92,5 +92,5 @@ $$\begin{align}
 \end{align}$$
 Då tar vi och multiplicerar sluthastigheten av bil A och multiplicerar det med 4.16s. Sedan adderas det med distansen som A körde på 6s, alltså 75.06m.
 $$\begin{align}
-&\left(25m/s \cdot 4.16s \right) + 75.05m = 
+&\left(25m/s \cdot 4.16s \right) + 75.05m \approx 179m
 \end{align}$$
