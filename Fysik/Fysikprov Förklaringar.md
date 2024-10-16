@@ -81,3 +81,4 @@ $$\begin{align}
 &\text{Bil B}:99.6m=16.\overline6m/s\cdot 6s
 \end{align}$$
 Så här ser vi att A inte har åkt lika långt som B.
+Men efter 6 sekunder slutar ju bil
