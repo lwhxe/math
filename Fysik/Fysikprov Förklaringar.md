@@ -75,4 +75,7 @@ $$\begin{align}
 &\text{Accelerar med}:4.1\overline6m/s^2.\\
 &\text{Bil B}:16.\overline6 m/s
 \end{align}$$
-Vi kan först kolla om 
+Vi kan först kolla om A har kommit ikapp B om 6 sekunder.
+$$\begin{align}
+&\text{Bil A} = 
+\end{align}$$
