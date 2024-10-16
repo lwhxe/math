@@ -83,14 +83,14 @@ $$\begin{align}
 Så här ser vi att A inte har åkt lika långt som B.
 Men efter 6 sekunder slutar ju A accelerera, och åker konstant i 90km/h.
 Det vi måste göra nu är jämföra distanserna och hastigheterna. Med det lista ut hur länge det tar för bil A att komma ikapp.
-$$\text{Bil A har 34.54m kvar att ta ikapp Bil B.}$$
+$$\text{Bil A har 24.54m kvar att ta ikapp Bil B.}$$
 $$99.6m - 75.06m$$
 Om vi då tar skillnaden i hastigheten mellan bilarna, så star bil B i princip still och vi har hastigheten av bil A i jämförelse med bil B.
 $$\begin{align}
 &25m/s - 16.\overline6m/s \approx 8.\overline3m/s\\\\
-&\frac{34.53m}{8.\overline3m/s} \approx 4.16s
+&\frac{24.53m}{8.\overline3m/s} \approx 2.96s
 \end{align}$$
 Då tar vi och multiplicerar sluthastigheten av bil A och multiplicerar det med 4.16s. Sedan adderas det med distansen som A körde på 6s, alltså 75.06m.
 $$\begin{align}
-&\left(25m/s \cdot 4.16s \right) + 75.05m \approx 179m
+&\left(25m/s \cdot 2.96s \right) + 75.05m \approx 179m
 \end{align}$$
