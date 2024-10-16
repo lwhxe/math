@@ -77,6 +77,6 @@ $$\begin{align}
 \end{align}$$
 Vi kan först kolla om A har kommit ikapp B om 6 sekunder.
 $$\begin{align}
-&\text{Bil A}:d=\frac{4.1\overline6m/s^2\cdot6^2s^2}{2}\\\\
-&\text{Bil B}:d=16.\overline6m/s\cdot 6s
+&\text{Bil A}:150.12m=\frac{4.1\overline6m/s^2\cdot6^2s^2}{2}\\\\
+&\text{Bil B}:99.6m=16.\overline6m/s\cdot 6s
 \end{align}$$
