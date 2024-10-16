@@ -72,6 +72,6 @@ När vi multiplicerar
 Vi kan först börja genom att konvertera km/h till m/s. På så sätt så blir det lättare att förstå.
 $$\begin{align}
 &\text{Bil A}:25m/s \text{ på }6s \\
-&\text{Accelerar med}:\\
+&\text{Accelerar med}:4.1\overline6m/s^2.\\
 &\text{Bil B}:16.\overline6 m/s
 \end{align}$$
