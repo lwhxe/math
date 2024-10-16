@@ -36,7 +36,7 @@ Först så måste vi räkna ut skillnaden mellan Justin och Julijas tider.
 $$10.93s - 9.85s = 1.08s$$
 Då har vi tiden som Julija hade kvar tills hon passerade mållinjen.
 Med den tiden och hennes medelhastighet, kan vi få distansen som hon hade kvar att springa.
-$$9.15m/s \cdot 1.08s = 9.88m$$
+$$9.15m/s \cdot 1.08s \approx 9.88m$$
 Och då har vi distansen som hon hade kvar att springa.
 
 ---
@@ -63,7 +63,14 @@ Det lättaste sättet att förstå tvåan som kommer från ingenstans, är att t
 $$d=\frac{at^2}{2}$$
 De som kollade noga, inser kanske att distans och tid-formlerna är liknande. Och det beror på att det är samma formel, fast bara olika ordningar.
 
-När vi multiplicerar
+När vi multiplicerar accelerationen med tid, så får vi ju hastigheten vid den tidpunkten. Fast vi vill ha medelhastigheten, då måste vi dividera hastigheten med 2. Först då kan vi multiplicera hastigheten med tiden igen, för att få distansen vi har åkt. Om vi skippar 2an, så blir distansen vi har åkt 2 gånger längre än den faktiskt var.
+
+Om vi då sätter in rätt siffror i den föregående formeln för tid, så får vi:
+$$2.47s \approx \sqrt{\frac{2 \cdot 30m}{9.8m/s^2}}$$
+Alltså tar det $2.47s$, tills den rör marken. Sedan så måste man bara addera tiden som det tar för ljud att färdas 30m upp till våra örön, från längst nere i gruvan.
+$$\frac{30m}{340m/s} \approx 0.09s$$
+Alltså tar det $2.47s + 0.09s$, för oss att höra att den slått till marken.
+Eller skrivet i ett ända värde: $2.56s$ .
 
 ---
 <div style="page-break-after: always;"></div>
