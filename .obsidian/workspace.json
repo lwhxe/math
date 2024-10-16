@@ -13,22 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KEMI/1/Lektion 9 - Intramolekylära Bindningar.md",
+                "file": "Fysik/Fysikprov Förklaringar.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "fa0d4d2bb9e67f21",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Fysik/Fysikprov Förklaringar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Fysik/Fysikprov Förklaringar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Fysik/Fysikprov Förklaringar.md"
+              }
             }
           },
           {
@@ -169,7 +164,7 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "fa0d4d2bb9e67f21",
+  "active": "20fb319a1f284e3b",
   "lastOpenFiles": [
     "KEMI/1/Lektion 9 - Intramolekylära Bindningar.md",
     "conflict-files-obsidian-git.md",
