@@ -11,8 +11,12 @@
             "id": "20fb319a1f284e3b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "KEMI/1/Lektion 9 - Intramolekylära Bindningar.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "KEMI/1/Lektion 9 - Intramolekylära Bindningar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "KEMI/1/Lektion 9 - Intramolekylära Bindningar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Matematik/Mathematics Video/7-11 Matematik Script.md"
+                "file": "KEMI/1/Lektion 9 - Intramolekylära Bindningar.md"
               }
             }
           },
@@ -158,15 +164,16 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "1e8d4d61d6a8e25f",
+  "active": "20fb319a1f284e3b",
   "lastOpenFiles": [
+    "KEMI/1/Lektion 9 - Intramolekylära Bindningar.md",
+    "Matematik/Mathematics Video/7-11 Matematik Script.md",
     "SplitChart.png",
     "Materia.png",
     "Matematik/Mathematics Video/ÅK 7-9 Matematik.md",
     "Matematik/Mathematics Video/Quality Test - Conways Game of Life.md",
     "Matematik/Mathematics Video/conway.exe",
     "Matematik/Mathematics Video/conway.cpp",
-    "Matematik/Mathematics Video/7-11 Matematik Script.md",
     "Matematik/1/Riemann Sums.md",
     "Matematik/Mathematics Video",
     "Matematik/Matematik 1-NATEK-2 Challenge.md",
