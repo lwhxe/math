@@ -71,6 +71,7 @@ När vi multiplicerar
 7. ***En person A har en bil som kan accelerera från stillastående till hastigheten $90$ km/h på tiden $6.0$ s. Accelerationen kan antas ske likformigt. Just som A startar sin bil, passeras han av en annan bilist B, som håller konstant hastighet $60$ km/h. A accelererar maximalt men följer bestämmelserna om hastighetsbegränsning på $90$ km/h. Hur lång väg har A färdats då han hinner upp B?***
 Vi kan först börja genom att konvertera km/h till m/s. På så sätt så blir det lättare att förstå.
 $$\begin{align}
-&\text{Bil A}:25m/s \text{ på }6s \\\\
-&\text{Bil B}:
+&\text{Bil A}:25m/s \text{ på }6s \\
+&\text{Accelerar med}:\\
+&\text{Bil B}:16.\overline6 m/s
 \end{align}$$
