@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9103af693c46431e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KEMI/1/Lektion 9 - Intramolekylära Bindningar.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KEMI/1/Lektion 9 - Intramolekylära Bindningar.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KEMI/1/Lektion 9 - Intramolekylära Bindningar.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -164,9 +177,11 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "20fb319a1f284e3b",
+  "active": "9103af693c46431e",
   "lastOpenFiles": [
     "KEMI/1/Lektion 9 - Intramolekylära Bindningar.md",
+    "conflict-files-obsidian-git.md",
+    "Fysik/Fysikprov Förklaringar.md",
     "Matematik/Mathematics Video/7-11 Matematik Script.md",
     "SplitChart.png",
     "Materia.png",
@@ -206,9 +221,7 @@
     "KEMI/1/Lektion 9 -.md",
     "Matematik/Mathematics Video/conway.cpp~",
     "Matematik/Math Challenge.md",
-    "conflict-files-obsidian-git.md",
     "Matematik/ÅK 7-9 Matematik.md",
-    "Matematik/ÅK 7-9 Matematik Script (SV).md",
     "Untitled.canvas",
     "Pasted image 20240904153619.png",
     "Salvation's Edge.canvas",
