@@ -76,3 +76,28 @@ Eller skrivet i ett ända värde: $2.56s$ .
 <div style="page-break-after: always;"></div>
 
 7. ***En person A har en bil som kan accelerera från stillastående till hastigheten $90$ km/h på tiden $6.0$ s. Accelerationen kan antas ske likformigt. Just som A startar sin bil, passeras han av en annan bilist B, som håller konstant hastighet $60$ km/h. A accelererar maximalt men följer bestämmelserna om hastighetsbegränsning på $90$ km/h. Hur lång väg har A färdats då han hinner upp B?***
+Vi kan först börja genom att konvertera km/h till m/s. På så sätt så blir det lättare att förstå.
+$$\begin{align}
+&\text{Bil A}:25m/s \text{ på }6s \\
+&\text{Accelerar med}:4.1\overline6m/s^2.\\
+&\text{Bil B}:16.\overline6 m/s
+\end{align}$$
+Vi kan först kolla om A har kommit ikapp B om 6 sekunder.
+$$\begin{align}
+&\text{Bil A}:75.06m \approx \frac{4.1\overline6m/s^2\cdot6^2s^2}{2}\\\\
+&\text{Bil B}:99.6m \approx 16.\overline6m/s\cdot 6s
+\end{align}$$
+Så här ser vi att A inte har åkt lika långt som B.
+Men efter 6 sekunder slutar ju A accelerera, och åker konstant i 90km/h.
+Det vi måste göra nu är jämföra distanserna och hastigheterna. Med det lista ut hur länge det tar för bil A att komma ikapp.
+$$\text{Bil A har 34.54m kvar att ta ikapp Bil B.}$$
+$$99.6m - 75.06m$$
+Om vi då tar skillnaden i hastigheten mellan bilarna, så star bil B i princip still och vi har hastigheten av bil A i jämförelse med bil B.
+$$\begin{align}
+&25m/s - 16.\overline6m/s \approx 8.\overline3m/s\\\\
+&\frac{34.53m}{8.\overline3m/s} \approx 4.16s
+\end{align}$$
+Då tar vi och multiplicerar sluthastigheten av bil A och multiplicerar det med 4.16s. Sedan adderas det med distansen som A körde på 6s, alltså 75.06m.
+$$\begin{align}
+&\left(25m/s \cdot 4.16s \right) + 75.05m = 
+\end{align}$$
