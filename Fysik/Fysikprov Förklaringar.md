@@ -90,4 +90,7 @@ $$\begin{align}
 &25m/s - 16.\overline6m/s \approx 8.\overline3m/s\\\\
 &\frac{34.53m}{8.\overline3m/s} \approx 4.16s
 \end{align}$$
-Då så 
+Då tar vi och multiplicerar sluthastigheten av bil A och multiplicerar det med 4.16s. Sedan adderas det med distansen som A körde på 6s, alltså 75.06m.
+$$\begin{align}
+&\left(25m/s \cdot 4.16s \right) + 75.05m = 
+\end{align}$$
