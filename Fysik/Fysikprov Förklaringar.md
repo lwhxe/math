@@ -80,3 +80,4 @@ $$\begin{align}
 &\text{Bil A}:75.06m=\frac{4.1\overline6m/s^2\cdot6^2s^2}{2}\\\\
 &\text{Bil B}:99.6m=16.\overline6m/s\cdot 6s
 \end{align}$$
+Så här ser vi att A inte har åkt lika långt som B.
