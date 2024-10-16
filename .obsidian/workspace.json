@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KEMI/1/Lektion 9 - Intramolekylära Bindningar.md",
+                "file": "Fysik/Fysikprov Förklaringar.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "e02b984503cdccbe",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KEMI/1/Lektion 9 - Intramolekylära Bindningar.md",
+                "file": "Fysik/Fysikprov Förklaringar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KEMI/1/Lektion 9 - Intramolekylära Bindningar.md",
+                "file": "Fysik/Fysikprov Förklaringar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KEMI/1/Lektion 9 - Intramolekylära Bindningar.md"
+                "file": "Fysik/Fysikprov Förklaringar.md"
               }
             }
           },
@@ -166,8 +167,8 @@
   },
   "active": "20fb319a1f284e3b",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "KEMI/1/Lektion 9 - Intramolekylära Bindningar.md",
+    "conflict-files-obsidian-git.md",
     "Fysik/Fysikprov Förklaringar.md",
     "Matematik/Mathematics Video/7-11 Matematik Script.md",
     "SplitChart.png",
