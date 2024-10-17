@@ -102,9 +102,3 @@ $$\begin{align}
 &\left(25m/s \cdot 2.96s \right) + 75.05m \approx 149.05m
 \end{align}$$
 Alltså kommer A ikapp B när A har kört ungefär 149.05m.
-
-$$\begin{picture}
-\addplot{mesh, samples=50}
-
-
-\end{picture}$$
