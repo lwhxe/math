@@ -103,4 +103,3 @@ $$\begin{align}
 \end{align}$$
 Alltså kommer A ikapp B när A har kört ungefär 149.05m.
 
-
